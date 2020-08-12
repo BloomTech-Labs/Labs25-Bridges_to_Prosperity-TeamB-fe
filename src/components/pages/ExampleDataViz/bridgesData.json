@@ -1,29 +1,68 @@
-{
-  "id": 1014107,
-  "name": "Buzi",
-  "type": "Suspended",
-  "stage": "Rejected",
-  "subStage": "Technical",
-  "individualsDirectlyServed": 0.0,
-  "span": "",
-  "latitude": -2.42056,
-  "longitude": 28.9662,
-  "communitiesServed": [
-    {
-      "id": 22050101,
-      "name": "Agahehe"
-    },
-    {
-      "id": 22050102,
-      "name": "Kabacuzi"
-    },
-    {
-      "id": 22050103,
-      "name": "Kamutozo"
-    },
-    {
-      "id": 22050104,
-      "name": "Kamweko"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "b2p_bridge_id": null,
+    "country": "Rwanda",
+    "province": "Western Province",
+    "district": "Rusizi",
+    "sector": "Giheke",
+    "cell": "Gakomeye",
+    "project_code": 1014107,
+    "project_stage": "Completed",
+    "sub_stage": "Technical",
+    "bridge_type": "Suspended",
+    "span": "8 Meters",
+    "lat": -2.42056,
+    "long": 28.9662,
+    "communities_served": [
+      {
+        "id": 1,
+        "name": "Buzi"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "b2p_bridge_id": null,
+    "country": "Rwanda",
+    "province": "Wakanda",
+    "district": "Branium",
+    "sector": "Somewhere",
+    "cell": "what",
+    "project_code": 1014107,
+    "project_stage": "Approved",
+    "sub_stage": "Technical",
+    "bridge_type": "Suspended",
+    "span": "8 Meters",
+    "lat": -2.92056,
+    "long": 29.9662,
+    "communities_served": [
+      {
+        "id": 1,
+        "name": "Blackpanther"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "b2p_bridge_id": null,
+    "country": "Rwanda",
+    "province": "Western Province",
+    "district": "Rusizi",
+    "sector": "Giheke",
+    "cell": "Gakomeye",
+    "project_code": 1014107,
+    "project_stage": "Approved",
+    "sub_stage": "Technical",
+    "bridge_type": "Suspended",
+    "span": "8 Meters",
+    "lat": -5.92056,
+    "long": 28.9662,
+    "communities_served": [
+      {
+        "id": 1,
+        "name": "Buzi"
+      }
+    ]
+  }
+]
